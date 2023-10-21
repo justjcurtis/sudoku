@@ -33,4 +33,3 @@ console.log(`${N}/${N}`)
 console.log()
 console.log(`Valid: ${Math.round((Valid / N) * 10000) / 100}%`)
 console.log(`Average Duration: ${Math.round((Duration / N) * 100) / 100}ms`)
-// console.log(values.map(row => row.join(' ')).join('\n'));
